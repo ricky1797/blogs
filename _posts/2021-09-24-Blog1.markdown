@@ -1,0 +1,5 @@
+---
+layout: post
+---
+
+The Prometheus lab was pretty interesting to follow through. I had previously taken this class but due to work scheduling and unable to join the first few classes. I couldnt do the work entirely. However this year, I paid attention and found a few issues I had last year. For one , I was unaware that docker does not run well on windows Im now using Mac to do my assignments. During this first lab, the first few steps was fairly easy and I didnt struggle in creating containers and installing node. I did however have an issue in where i could not display in the 9090 port. I then later realized that I wasnt exposing both ports, it was funny and excruciating to know that I was missing one command that wasnt letting me complete the lab. I had re done my steps multiple times. 
