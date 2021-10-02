@@ -1,0 +1,5 @@
+---
+layout: post
+---
+
+This week, I decided to build a custom website for my business, I had decided to go this route instead of using shopify or any other ecommerce site because I felt that I was capable of making a simple page that people can purchase something and there have it connect to a checkout api provided by stripe to process the payment. I am using React for the frontend, will be using node for the backend to keep track of quantities on items. So far I have only done the front end portion, I am taking my time wtih the CSS because I want to make my website with animation and want it to stand out. What I was stuck on for the past few days was getting my components to render properly, its been a learning curve but I think this will be very uesful to mix with CIT. For the Dockerfile lab we did, I was struggling on finding what commands to put in the Docker file, I feel confident that I can take on the next lab with no hesitatino. 
