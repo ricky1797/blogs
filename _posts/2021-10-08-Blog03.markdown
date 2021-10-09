@@ -1,0 +1,11 @@
+---
+layout: post
+---
+
+I had several tasks in mind that I wanted to complete this week. Continuing on from last week’s blog I proceeded to continue working on my personal project. 
+I completed the Front End of my website and everything seems to be working. So, what I had left was to create the backend and connect it with my front end so it 
+can listen for requests made. I then connected the stripe API with my project and basically finished a React App E-commerce site. Since I am learning to code as I go, 
+I am now going to create a database so I can update my products and their quantities instead of having static data in a json file. I believe this has given me a lot of knowledge. 
+After finalizing my website, I will be researching on which server I want to deploy both backend and frontend. I’m not sure how stability works either so again something that I 
+am planning on learning on my own which I hope to mention in the upcoming vlogs. I’m excited to see how I can incorporate what I learn from this class into my personal projects 
+and vise versa
